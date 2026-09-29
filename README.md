@@ -153,16 +153,6 @@
 <img src="https://api.iconify.design/mdi:map-marker.svg?color=%23f38ba8" width="16" /> Astana, Kazakhstan
 
 <br />
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=berdygulovaldiyar&theme=rose-pine&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdygulovaldiyar&theme=rose-pine&hide_border=true&layout=compact" />
-
-</div>
-
-<br />
 
 <div align="center">
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ݁₊ ⊹
